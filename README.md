@@ -18,6 +18,11 @@ This project is a solution to **Task 2** of the internship assignment. The objec
 
 ---
 
+## Video Link
+- **Gdrive Link**: [Assignment Video](https://drive.google.com/file/d/10L6d36hbCxZqHyK2dHBicsOk3kBHGJkn/view?usp=drive_link)
+
+---
+
 ## Tech Stack  
 - **Frontend**: React.js  
 - **CSS**: Tailwind CSS 
